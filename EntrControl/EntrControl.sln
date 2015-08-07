@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntrControl", "EntrControl\EntrControl.csproj", "{C8D54268-73DD-4040-8B37-243D5A04269C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8D54268-73DD-4040-8B37-243D5A04269C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8D54268-73DD-4040-8B37-243D5A04269C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8D54268-73DD-4040-8B37-243D5A04269C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8D54268-73DD-4040-8B37-243D5A04269C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
